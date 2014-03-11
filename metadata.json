@@ -1,0 +1,13 @@
+{
+  "name": "munge",
+  "version": "0.1.1",
+  "summary": "Puppet module to install and configure MUNGE.",
+  "author": "HEP-Puppet",
+  "description": "Puppet module to install and configure MUNGE.",
+  "dependencies": [],
+  "types": [],
+  "checksums": {},
+  "source": "git@github.com:HEP-Puppet/munge.git",
+  "project_page": "https://github.com/HEP-Puppet/munge",
+  "license": "Apache License, Version 2.0"
+}
